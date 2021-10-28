@@ -1,0 +1,6 @@
+D:\Blog\BlogApi\BlogDominio\BlogDominio\bin\Debug\BlogDominio.dll
+D:\Blog\BlogApi\BlogDominio\BlogDominio\bin\Debug\BlogDominio.pdb
+D:\Blog\BlogApi\BlogDominio\BlogDominio\obj\Debug\BlogDominio.csproj.CoreCompileInputs.cache
+D:\Blog\BlogApi\BlogDominio\BlogDominio\obj\Debug\BlogDominio.dll
+D:\Blog\BlogApi\BlogDominio\BlogDominio\obj\Debug\BlogDominio.pdb
+D:\Blog\BlogApi\BlogDominio\BlogDominio\obj\Debug\BlogDominio.csproj.AssemblyReference.cache
